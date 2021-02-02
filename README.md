@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://github.com/MasEug">Eugeniya</a> 👋
+### Hi there, I'm <a href="https://github.com/MasEug" target="_blank">Eugeniya</a> 👋
 
 <!--
 **MasEug/maseug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
