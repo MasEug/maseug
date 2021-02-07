@@ -16,13 +16,9 @@ Briefly about me: I like to think, learn and know a little JS. I am looking for 
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Java       9 hrs 19 mins   █████████████████▒░░░░░░░   69.43 % 
-XML        2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Groovy     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Markdown   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JSON       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-<!--END_SECTION:waka-->
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasEug&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasEug&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
